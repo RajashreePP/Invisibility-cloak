@@ -13,4 +13,5 @@ Generate the final augmented output to create a magical effect. [output.avi]
 
 ## Instruction to run code:
 Python must be installed in system.
-download and run the program using terminal 
+download and run the program using terminal, 
+then webcam will open first frame will be captured as background and then you can show red colored things and it will create a mask over it to give invisibilty cloak effect. 
